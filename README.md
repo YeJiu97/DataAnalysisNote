@@ -22,6 +22,9 @@ Python Crash Course：https://github.com/YeJiu97/PythonCrashCourseNote
 Numpy&&Pandas：https://github.com/YeJiu97/DataAnalysisNote/tree/main/Numpy%26Pandas
 
 
+# Python Data Analysis Basics
+
+
 # 数据分析项目
 
 项目：https://github.com/YeJiu97/DataAnalysisNote/tree/main/DataAnalysisProject
