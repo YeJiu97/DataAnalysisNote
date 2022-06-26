@@ -17,10 +17,4 @@ Jupyter Notebook：https://github.com/YeJiu97/DataAnalysisNote/tree/main/Jupyter
 
 Python Crash Course：https://github.com/YeJiu97/PythonCrashCourseNote
 
-Numpy基础：https://github.com/YeJiu97/DataAnalysisNote/blob/main/Numpy%26Pandas/Numpy%E5%9F%BA%E7%A1%80.ipynb
-
-Pandas基础：https://github.com/YeJiu97/DataAnalysisNote/blob/main/Numpy%26Pandas/Pandas%E5%9F%BA%E7%A1%80.ipynb
-
-Pandas百题大冲关：https://github.com/YeJiu97/DataAnalysisNote/blob/main/Numpy%26Pandas/Pandas_100_practice.ipynb
-
-Pandas百题大冲关_学习版：https://github.com/YeJiu97/DataAnalysisNote/blob/main/Numpy%26Pandas/Pandas_100.ipynb
+Numpy&&Pandas：https://github.com/YeJiu97/DataAnalysisNote/tree/main/Numpy%26Pandas
